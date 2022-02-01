@@ -3,6 +3,7 @@
     "start": "parcel index.html"
   },
   "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.5",
     "parcel": "^2.2.1"
   }
 }

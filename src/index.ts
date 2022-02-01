@@ -1,5 +1,8 @@
-console.log('Hello Mathis');
+import User from './User';
+import Company from './Company';
 
-// learning basics of ts
-// learning basics of ts with react
-// build small project with ts / react
+const user = new User();
+console.log(user);
+
+const company = new Company();
+console.log(company);
